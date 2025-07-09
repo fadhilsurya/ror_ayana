@@ -1,11 +1,15 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  email: MyString
-  phone: MyString
+john:
+  name: "John Doe"
+  email: "john@example.com"
+  phone: "+1234567890"
 
-two:
-  name: MyString
-  email: MyString
-  phone: MyString
+jane:
+  name: "Jane Smith"
+  email: "jane@example.com"
+  phone: "+0987654321"
+
+bob:
+  name: "Bob Wilson"
+  email: "bob@example.com"
+  phone: "+1122334455"

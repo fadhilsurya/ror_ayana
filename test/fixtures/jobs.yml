@@ -1,13 +1,18 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  status: MyString
-  user: one
+backend_dev:
+  title: "Backend Developer"
+  description: "Develop and maintain backend services"
+  status: "pending"
+  user: john
 
-two:
-  title: MyString
-  description: MyText
-  status: MyString
-  user: two
+frontend_dev:
+  title: "Frontend Developer"
+  description: "Build user interfaces with React"
+  status: "in_progress"
+  user: jane
+
+devops_engineer:
+  title: "DevOps Engineer"
+  description: "Manage infrastructure and deployments"
+  status: "completed"
+  user: bob
